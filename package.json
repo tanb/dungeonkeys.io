@@ -30,7 +30,7 @@
     "@ngx-translate/http-loader": "^4.0.0",
     "@scullyio/init": "^1.0.1",
     "@scullyio/ng-lib": "^1.0.0",
-    "@scullyio/scully": "^1.0.3",
+    "@scullyio/scully": "^1.0.9",
     "@types/animejs": "^3.1.2",
     "@types/google.analytics": "^0.0.39",
     "@types/grecaptcha": "^2.0.36",
